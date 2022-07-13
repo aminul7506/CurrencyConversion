@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Currency Conversion</string>
+    <string name="enter_amount_hint_text">Enter your amount</string>
+    <string name="currency_selection_title">Select a currency</string>
+    <string name="enter_a_valid_number">Input is not valid</string>
+    <string name="convert_now">Convert Now</string>
+    <string name="something_wrong">Something went wrong. Please try again after some time.</string>
+    <string name="something_wrong_no_internet">No internet connection. Please check your internet connection and try again.</string>
+    <string name="retry">Retry</string>
+    <string name="enter_currency_suggestion">Enter your amount below</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="typography_primary">#FF353B50</color>
+    <color name="typography_secondary">#FF7B768C</color>
+    <color name="color_primary">#FF25B7D3</color>
+    <color name="color_accent">@color/color_secondary</color>
+    <color name="color_secondary">#96e8ff</color>
+    <color name="main_view_background">@color/white</color>
+    <color name="selected_item_background_color">#32000000</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="app_divider_color">#B5B5B5</color>
+</resources>
